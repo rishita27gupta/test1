@@ -7,3 +7,5 @@ change 1- done by team member
 CHANGE FOR THE BUG2
 
 vjhjhj,
+
+Change: For WI6 on local master to check normal push
